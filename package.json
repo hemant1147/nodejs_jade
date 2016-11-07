@@ -1,0 +1,23 @@
+{
+  "name": "form_jade",
+  "version": "1.0.0",
+  "description": "love my city application using jade",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "template-engine",
+    "jade"
+  ],
+  "author": "Akhil",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "jade": "^1.11.0"
+  }
+}
